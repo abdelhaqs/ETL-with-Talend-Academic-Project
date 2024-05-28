@@ -2,6 +2,8 @@
 **Project Topic**: ETL with Talend Open Studio  
 **Academic Project**: University Student
 
+![Project Image](https://imgur.com/8gaq9DR)
+
 ### Work Done:
 - Extraction, Transformation, Loading (ETL)
 - Creation of jobs using Talend Open Studio
@@ -13,4 +15,3 @@
 - **Software**: Pentaho, Oracle, PowerBI
 - **Methods**: Kimball Techniques
 - **Systems**: Windows, Red Hat Linux
-
