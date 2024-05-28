@@ -2,7 +2,7 @@
 **Project Topic**: ETL with Talend Open Studio  
 **Academic Project**: University Student
 
-![Project Image](https://imgur.com/8gaq9DR)
+![Project Image](https://i.imgur.com/8gaq9DR.png)
 
 ### Work Done:
 - Extraction, Transformation, Loading (ETL)
