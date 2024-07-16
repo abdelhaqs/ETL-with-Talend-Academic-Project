@@ -14,4 +14,4 @@
 - **Technologies**: ETL, Reporting
 - **Software**: Pentaho, Oracle, PowerBI
 - **Methods**: Kimball Techniques
-- **Systems**: Windows, Red Hat Linux
+- **OS Systems**: Windows
